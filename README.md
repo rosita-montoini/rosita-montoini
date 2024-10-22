@@ -1,9 +1,10 @@
-## Hi there 👋
+### Hello, I'm Rosita 👋 
+I am a PHP developer. Have experience in Back-end technologies and E2E testing.
 
-<!--
-**rosita-montoini/rosita-montoini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools...
+![Static Badge](https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP&logoColor=b6b1f8&logoSize=auto&labelColor=black&color=b6b1f8&labelWidth=100)
+![Static Badge](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=Laravel&logoColor=f70042&logoSize=auto&labelColor=black&color=f70042)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
