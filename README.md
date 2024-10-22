@@ -18,3 +18,5 @@ I am a PHP developer. Have experience in Back-end technologies and E2E testing.
 - &#x1F4CE; [My Resume/CV](https://drive.google.com/file/d/1tBpOTiupOg0Sglzj2kHdvoes9DT12Dgf/view?usp=sharing)
 - 📧 r.montoini@gmail.com
 
+### My stats ⭐️
+[![Rosita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosita-montoini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
