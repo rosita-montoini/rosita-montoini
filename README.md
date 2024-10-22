@@ -11,7 +11,10 @@ I am a PHP developer. Have experience in Back-end technologies and E2E testing.
 ![Static Badge](https://img.shields.io/badge/Cypress-84f6fd?style=for-the-badge&logo=Cypress&logoColor=84f6fd&logoSize=auto&labelColor=black&color=84f6fd)
 
 ### Business
-&#x1F4CE; [My Resume/CV](https://drive.google.com/file/d/1tBpOTiupOg0Sglzj2kHdvoes9DT12Dgf/view?usp=sharing)
+- &#x1F4CE; [My Resume/CV](https://drive.google.com/file/d/1tBpOTiupOg0Sglzj2kHdvoes9DT12Dgf/view?usp=sharing)<br>
+- 📧 r.montoini@gmail.com
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
