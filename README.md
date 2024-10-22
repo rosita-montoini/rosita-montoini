@@ -12,7 +12,7 @@ I am a PHP developer. Have experience in Back-end technologies and E2E testing.
 
 #### 📫 Reach me out!
 [![Static Badge](https://img.shields.io/badge/Rosita%20Montoini-004bad?style=flat&logo=LinkedIn&logoColor=white&logoSize=auto&labelColor=004bad&color=004bad)](https://www.linkedin.com/in/rosita-montoini-3109a01b4/)
-[![Static Badge](https://img.shields.io/badge/Rosita%20Montoini-00c57f?style=flat&logo=Gmail&logoColor=white&logoSize=auto&labelColor=00c57f&color=00c57f)](r.montoini@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Rosita%20Montoini-00c57f?style=flat&logo=Gmail&logoColor=white&logoSize=auto&labelColor=00c57f&color=00c57f)](mailto:r.montoini@gmail.com)
 
 
 ### Business
