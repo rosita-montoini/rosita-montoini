@@ -14,7 +14,6 @@ I am a PHP developer. Have experience in Back-end technologies and E2E testing.
 [![Static Badge](https://img.shields.io/badge/Rosita%20Montoini-004bad?style=flat&logo=LinkedIn&logoColor=white&logoSize=auto&labelColor=004bad&color=004bad)](https://www.linkedin.com/in/rosita-montoini-3109a01b4/)
 [![Static Badge](https://img.shields.io/badge/Rosita%20Montoini-00c57f?style=flat&logo=Gmail&logoColor=white&logoSize=auto&labelColor=00c57f&color=00c57f)](mailto:r.montoini@gmail.com)
 
-
 ### Business
 - &#x1F4CE; [My Resume/CV](https://drive.google.com/file/d/1tBpOTiupOg0Sglzj2kHdvoes9DT12Dgf/view?usp=sharing)
 - 📧 r.montoini@gmail.com
